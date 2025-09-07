@@ -95,7 +95,7 @@ const EmployeeList = () => {
             <tbody className="bg-white dark:bg-gray-800 divide-y divide-gray-200 dark:divide-gray-700">
               {filteredEmployees.length === 0 ? (
                 <tr>
-                  <td colSpan="8" className="px-6 py-16 text-center text-gray-500 dark:text-gray-400">
+                  <td colSpan="8" className="px-6 py-16 text-center text-gray-800 dark:text-gray-300 font-medium text-2xl">
                     No records found
                   </td>
                 </tr>
