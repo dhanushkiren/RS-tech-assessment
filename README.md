@@ -65,3 +65,4 @@ npm run dev # Starts frontend dev server (Vite or CRA)
 
 Frontend dev server typically runs at: `http://localhost:5173`
 
+Additionally added theme toggle..
